@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋Am I Ganesh Prajapat from Bikaner Rajasthani</h1>
+ <img width=100% title="Nemonet TYP" alt="Nemonet TYP" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=👨‍💻%Ganesh%20%20Prajapat%20👨‍💻&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<h1 align="center">Hi 👋  from Bikaner Rajasthan India  </h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOs0kbogYKyjU2HKe96-Qu7bHvT__dn2yDjwVwbpQFRshivtiYKdHjHW15LV8SE-PWAZU&usqp=CAU" alt=" Code by ganesh img">
 
@@ -34,3 +35,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganeshparjapt&show_icons=true&locale=en" alt="ganeshparjapt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshparjapt&" alt="ganeshparjapt" /></p>
+
+
+</div>
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+<div align="center">
+ <table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/ganeshparjapt/count.svg" alt=""/></td>
+  </tr>
+</table>
+<img width=100% title="Nemonet TYP" alt="Nemonet TYP"  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling"/>
+<p></p><p></p>
